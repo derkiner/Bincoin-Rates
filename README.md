@@ -17,6 +17,8 @@ npm run build
 
 ## App Info
 
+![image](https://user-images.githubusercontent.com/90147636/198090788-cbd8343f-2495-4779-9b8d-69142445f514.png)
+
 
 ### Version
 
@@ -26,4 +28,4 @@ npm run build
 
 This project is licensed under the MIT License
 
-![image](https://user-images.githubusercontent.com/90147636/198090788-cbd8343f-2495-4779-9b8d-69142445f514.png)
+
