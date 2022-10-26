@@ -1,5 +1,6 @@
 # Bitcoin Prices
 
+> A Next.js-based app displaying the current Bitcoin value in USD, GBP and EUR
 
 ## Quick Start
 
