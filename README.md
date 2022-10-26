@@ -1,6 +1,6 @@
 # Bitcoin Prices
 
-> Sample Next.js app which whos the current Bitcoin value in USD, GBP and EUR
+> A Next.js-based app displaying the current Bitcoin value in USD, GBP and EUR
 
 ## Quick Start
 
@@ -17,9 +17,6 @@ npm run build
 
 ## App Info
 
-![image](https://user-images.githubusercontent.com/90147636/198090788-cbd8343f-2495-4779-9b8d-69142445f514.png)
-
-
 ### Version
 
 1.0.0
@@ -27,5 +24,9 @@ npm run build
 ### License
 
 This project is licensed under the MIT License
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/90147636/198090788-cbd8343f-2495-4779-9b8d-69142445f514.png)
 
 
